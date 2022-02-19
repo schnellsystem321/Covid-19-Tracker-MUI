@@ -5,7 +5,8 @@
 body{
   background-color: whitesmoke;
 }
-.app_header {
+.app_header > h1{
+  color: red;
   display: flex;
   align-items: center;
   margin-bottom: 20px;
@@ -14,6 +15,7 @@ body{
 .app_stats{
   display: flex;
   justify-content: space-between ; 
+  padding: 20px;
 }
 .app_left {
   /* utilize the 90% of width */
@@ -22,6 +24,18 @@ body{
 .App{
   display: flex;
   justify-content: space-evenly;
+}
+.app__dropdown{
+  background-color: white;
+}
+.app__right{
+  display: flex;
+  flex-direction: column;
+}
+.app__right .MuiCardContent-root{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
 }
 /* MAKING RESPONSIVE  WHILE SCREEN SIZE CHANGES */
 @media (max-width : 990px){

@@ -11,5 +11,6 @@
 }
 /* odd no: of row points */
 .table tr:nth-of-type(odd){ 
-    background-color: rgb(224, 202, 245);
+    background-color: #e1ccf5;
 }
+

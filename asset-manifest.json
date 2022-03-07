@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/schnellsystem321/Covid-19-Tracker-MUI/static/css/main.9c2ce734.css",
-    "main.js": "/schnellsystem321/Covid-19-Tracker-MUI/static/js/main.4fc41482.js",
-    "static/js/787.b4f08016.chunk.js": "/schnellsystem321/Covid-19-Tracker-MUI/static/js/787.b4f08016.chunk.js",
-    "index.html": "/schnellsystem321/Covid-19-Tracker-MUI/index.html",
-    "main.9c2ce734.css.map": "/schnellsystem321/Covid-19-Tracker-MUI/static/css/main.9c2ce734.css.map",
-    "main.4fc41482.js.map": "/schnellsystem321/Covid-19-Tracker-MUI/static/js/main.4fc41482.js.map",
-    "787.b4f08016.chunk.js.map": "/schnellsystem321/Covid-19-Tracker-MUI/static/js/787.b4f08016.chunk.js.map"
+    "main.css": "/Covid-19-Tracker-MUI/static/css/main.9c2ce734.css",
+    "main.js": "/Covid-19-Tracker-MUI/static/js/main.a55eaf31.js",
+    "static/js/787.b4f08016.chunk.js": "/Covid-19-Tracker-MUI/static/js/787.b4f08016.chunk.js",
+    "index.html": "/Covid-19-Tracker-MUI/index.html",
+    "main.9c2ce734.css.map": "/Covid-19-Tracker-MUI/static/css/main.9c2ce734.css.map",
+    "main.a55eaf31.js.map": "/Covid-19-Tracker-MUI/static/js/main.a55eaf31.js.map",
+    "787.b4f08016.chunk.js.map": "/Covid-19-Tracker-MUI/static/js/787.b4f08016.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c2ce734.css",
-    "static/js/main.4fc41482.js"
+    "static/js/main.a55eaf31.js"
   ]
 }

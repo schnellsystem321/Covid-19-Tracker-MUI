@@ -1,8 +1,8 @@
 {
   "name": "covid19-tracker",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://github.com/schnellsystem321/Covid-19-Tracker-MUI",
+  "private": true,  
+  "homepage": "https://schnellsystem321.github.io/Covid-19-Tracker-MUI/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.16.2",

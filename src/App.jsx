@@ -16,6 +16,7 @@ import LineGraph from "./LineGraph";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import "./InfoBox.css";
+
 function App() {
   const [countries, setCountries] = useState([]);
   const [country, setCountry] = useState("worldwide");

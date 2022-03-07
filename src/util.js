@@ -2,6 +2,7 @@ import React from 'react';
 import  Numeral  from 'numeral';
 import { Circle, Popup} from 'react-leaflet'
 import numeral from 'numeral';
+
 const casesTypeColors = {
     cases: {
       hex: "#CC1034",
